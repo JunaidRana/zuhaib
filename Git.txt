@@ -22,6 +22,10 @@ to view/confirm the changes
 git status
 
 
+to create the branch
+git checkout -b branchName
+
+
 to commit the code
 git commit -m 'message'
 
