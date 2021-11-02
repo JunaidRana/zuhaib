@@ -1,0 +1,31 @@
+git clone GIT-url
+
+
+
+CD PROJECT
+
+
+to view the changes
+git status
+
+
+to add all changes
+git add .
+
+
+
+to add specfic changes
+git add filename
+
+
+to view/confirm the changes
+git status
+
+
+to commit the code
+git commit -m 'message'
+
+
+
+to push the code
+git push origin branchName
