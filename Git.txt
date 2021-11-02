@@ -22,9 +22,6 @@ to view/confirm the changes
 git status
 
 
-to create the branch
-git checkout -b branchName
-
 
 to commit the code
 git commit -m 'message'
@@ -33,3 +30,12 @@ git commit -m 'message'
 
 to push the code
 git push origin branchName
+
+
+
+to create the branch
+git checkout -b branchName
+
+
+to checkout between branches
+git checkout branchName
